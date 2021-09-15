@@ -1,1 +1,1 @@
-A Simple Coffee Machine written in Python Using Object Orientated Programming
+A Simple Coffee Machine written in Python Using Object Oriented Programming
